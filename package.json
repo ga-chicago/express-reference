@@ -1,0 +1,23 @@
+{
+  "name": "express-reference",
+  "version": "1.0.0",
+  "description": "A reference for building Express apps from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ga-chicago/express-reference.git"
+  },
+  "author": "Bill Patrianakos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ga-chicago/express-reference/issues"
+  },
+  "homepage": "https://github.com/ga-chicago/express-reference#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0"
+  }
+}
